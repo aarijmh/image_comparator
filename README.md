@@ -16,7 +16,7 @@ A web service that compares two images and identifies the differences between th
 ### Quick Setup (Windows)
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image_comparator.git
+git clone https://github.com/aarijmh/image_comparator
 cd image_comparator
 ```
 
